@@ -1,0 +1,9 @@
+section{
+    background-image: url(../img/Vertical\ Balken.png);
+    background-repeat: repeat-y;
+}
+article{
+    background-image: url(https://i.picsum.photos/id/590/200/300.jpg?hmac=rMKCd22eXuQjtVujiifOrJzm-dBuhO8blicB93xN4y4);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
